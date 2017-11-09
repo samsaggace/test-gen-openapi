@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "TEST IT",
+    "repo": "samsaggace/test-gen-openapi",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": false
+  }
+}
